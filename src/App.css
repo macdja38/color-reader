@@ -1,32 +1,114 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+    animation: App-logo-spin infinite 20s linear;
+    height: 40vmin;
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
 }
 
 .App-link {
-  color: #61dafb;
+    color: #61dafb;
 }
 
 @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.a {
+    color: hsl(0, 100%, 50%);
+}
+.b {
+    color: hsl(14, 100%, 50%);
+}
+.c {
+    color: hsl(28, 100%, 50%);
+}
+.d {
+    color: hsl(43, 100%, 50%);
+}
+.e {
+    color: hsl(50, 100%, 15%);
+}
+.f {
+    color: hsl(72, 100%, 50%);
+}
+.g {
+    color: hsl(86, 100%, 40%);
+}
+.h {
+    color: hsl(100, 100%, 40%);
+}
+.i {
+    color: hsl(115, 100%, 40%);
+}
+.j {
+    color: hsl(129, 100%, 40%);
+}
+.k {
+    color: hsl(144, 100%, 40%);
+}
+.l {
+    color: hsl(158, 100%, 40%);
+}
+.m {
+    color: hsl(172, 100%, 40%);
+}
+.n {
+    color: hsl(187, 100%, 50%);
+}
+.o {
+    color: hsl(201, 100%, 50%);
+}
+.p {
+    color: hsl(216, 100%, 50%);
+}
+.q {
+    color: hsl(230, 100%, 50%);
+}
+.r {
+    color: hsl(244, 100%, 50%);
+}
+.s {
+    color: hsl(259, 100%, 50%);
+}
+.t {
+    color: hsl(273, 100%, 50%);
+}
+.u {
+    color: hsl(288, 100%, 50%);
+}
+.v {
+    color: hsl(302, 100%, 50%);
+}
+.w {
+    color: hsl(316, 100%, 50%);
+}
+.x {
+    color: hsl(331, 100%, 50%);
+}
+.y {
+    color: hsl(345, 100%, 50%);
+}
+.z {
+    color: hsl(360, 100%, 50%);
+}
+.z {
+    color: hsl(360, 100%, 50%);
 }
