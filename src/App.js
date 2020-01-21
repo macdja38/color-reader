@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  const [text, setText] = useState("Edit <code>src/App.js</code> and save to reload.");
+  const [text, setText] = useState("This app is an experiment to see if assigning each letter a unique colour can make reading easier. Feel free to use your web inspector to change the colours of the letters.");
 
   const spannyText = text.split("").map((letter, i) => <span key={letter + i} className={letter}>
     {letter}
