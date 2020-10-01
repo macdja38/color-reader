@@ -3,6 +3,7 @@
 This project was designed to test an idea that text may be esaier to read if each letter is given
 a unique colour.
 
+You can try it out yourself here https://color.ryke.xyz/
 
 
 # Project Setup
